@@ -5,7 +5,6 @@ I am a person who is positive about every aspect of life. I am studying Computer
 - 🌱 I am a person who is positive about every aspect of life. I am studying Computer Engineering at Cukurova University. There are many things I like to do, see and experience.
 - 📫 I love to collaborate and make awesome content. Let’s talk!  ( info@ahmadalkasemi.info - +90 539 521 95 03 )
 
-<!---
 I design professional & beautiful websites
 With years of experience in graphic and web design I have mastered the skills of
 understanding client requirements according to the latest trends. I have worked with
@@ -16,4 +15,3 @@ development, landing pages, email design, app UI/UX, to my current role designin
 products for mobile platforms. Having worked on various projects that are already live,
 I can help you with the best possible suggestions and ideas that we can proceed with.
 With me, you aren’t forced to accept anything. I give you a variety of options we can work on together.
---->
